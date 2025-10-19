@@ -22,18 +22,19 @@ I specialize in: <b>Python and JavaScript programming</b>, <b>Front-end & Back-e
 
 ---
 
-<h2 align="center">🌍 Current Role</h2>
+<h2 align="center">💼 Professional Experience</h2>
 
-### 💼 IT Consultant (Volunteer) — Catchafire *(May 2025 – Present)*
-- 🌐 Providing pro bono IT consulting for global nonprofits  
-- 🧩 Expertise in:  
-  - Secure Web Development & System Integration  
-  - Cybersecurity Auditing & Threat Mitigation  
-  - Network Architecture & Optimization  
-  - Cloud Strategy & Automation  
+### 🌍 **Catchafire (Current)**  
+**💼 IT Consultant (Pro Bono / Volunteer)**  
+📅 *May 2025 – Present*
 
-> **Impact Summary:**  
-> 💵 *$76 ,320* Total Impact  |  🤝 *164 Engagements*  |  ⏱ *328 Hours of Service*
+<p align="justify">
+I provide pro bono IT and digital support to nonprofit organizations through Catchafire.  
+My work includes website development, cybersecurity consulting, network troubleshooting, and digital strategy.  
+I apply my background in computer engineering and certifications in programming, cybersecurity, and digital marketing to deliver impactful, customized solutions that help mission-driven organizations work more effectively and securely.
+</p>
+
+> 💵 *$76,320* Total Impact | 🤝 *164 Engagements* | ⏱ *328 Hours of Service*
 
 ---
 
