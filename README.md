@@ -47,7 +47,7 @@ I apply my background in computer engineering and certifications in programming,
 <th>📅 Status / Year</th>
 </tr>
 <tr>
-<td><b>Bachelor of Science in Computer Engineering (IT)</b></td>
+<td><b>Bachelor Degree in Computer Engineering (IT)</b></td>
 <td>—</td>
 <td>In Progress (2024 – Present)</td>
 </tr>
