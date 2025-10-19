@@ -13,8 +13,11 @@
 <h2 align="center">💼 About Me</h2>
 
 <p align="center">
-I am <b>Amir Hossein Jafari Chashmi</b>, an accomplished <b>IT Engineer</b> with a <b>Bachelor Degree in Computer Engineering (IT)</b> and multiple certifications in <b>Cybersecurity</b>, <b>Networking</b>, and <b>Artificial Intelligence (AI)</b>.<br><br>
-With expertise in <b>secure cloud infrastructure</b>, <b>AI-driven systems integration</b>, and <b>advanced cybersecurity solutions</b>, I focus on delivering technology that is intelligent, secure, and built for long-term scalability and innovation.
+I am <b>Amir Hossein Jafari Chashmi</b>, an <b>Accomplished IT Engineer</b> with a <b>Bachelor Degree in Computer Engineering (IT)</b>, and multi-certified in <b>Cybersecurity</b>, <b>Networking</b>, and <b>Artificial Intelligence (AI)</b>.<br><br>
+
+With expertise in <b>secure cloud infrastructure</b>, <b>AI-driven systems integration</b>, and <b>advanced cybersecurity solutions</b>, I design intelligent, scalable, and reliable technologies that strengthen modern digital ecosystems.<br><br>
+
+I specialize in: <b>Python and JavaScript programming</b>, <b>Front-end & Back-end Web Development</b>, <b>Cybersecurity</b>, <b>Networking</b>, and <b>Artificial Intelligence (AI)</b>.
 </p>
 
 ---
