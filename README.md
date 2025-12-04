@@ -29,9 +29,7 @@ I specialize in: <b>Python and JavaScript programming</b>, <b>Front-end & Back-e
 📅 *May 2025 – Present*
 
 <p align="justify">
-I provide pro bono IT and digital support to nonprofit organizations through Catchafire.  
-My work includes website development, cybersecurity consulting, network troubleshooting, and digital strategy.  
-I apply my background in computer engineering and certifications in programming, cybersecurity, and digital marketing to deliver impactful, customized solutions that help mission-driven organizations work more effectively and securely.
+I provide pro bono IT and digital support to nonprofits, including website development, cybersecurity consulting, network troubleshooting, and digital strategy. With a background in computer engineering and certifications in programming, cybersecurity, and digital marketing, I deliver tailored, effective solutions that strengthen operations and help mission-driven organizations work more securely and efficiently.
 </p>
 
 > 💵 *$76,320* Total Impact | 🤝 *164 Engagements* | ⏱ *328 Hours of Service*
